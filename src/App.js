@@ -2,6 +2,7 @@ import Navbar from './componentes/navbar';
 import EvolucionHomero from './componentes/evolucionHomero';
 import Cards from   './componentes/cards'
 import Footer from './componentes/footer';
+//comentario
 
 function App() {
   return (
